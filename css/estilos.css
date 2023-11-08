@@ -20,6 +20,11 @@
 # PRINCIPAL
 --------------------------------------------------------------*/
     
+    .img {
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3);
+    }
+    
     body {
         font-family: "Open Sans", sans-serif;
         color: #444444;
