@@ -4,7 +4,7 @@
     
      :root {
         --primario: #cbf1f5;
-        --secundario: #f5027c;
+        --secundario: #bd0003;
         --oscuro: #ffffff;
         --claro: #e3fdfd;
     }
@@ -16,6 +16,7 @@
     .fondo-secundario {
         background-color: var(--secundario);
     }
+
     /*--------------------------------------------------------------
 # PRINCIPAL
 --------------------------------------------------------------*/
@@ -520,7 +521,6 @@
     
     .section-title p {
         margin: 15px auto 0 auto;
-        font-weight: 600;
     }
     
     @media (min-width: 1024px) {
@@ -563,7 +563,7 @@
         padding: 0 0 0 60px;
         margin-bottom: 0;
         font-size: 14px;
-        color: #816a6e;
+        color: #816a6e; 
     }
     
     .contact .info .email,
