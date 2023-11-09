@@ -831,3 +831,13 @@
         color: #fff;
         text-decoration: none;
     }
+
+    .logo{
+        display: flex;
+        align-items: center;
+    }
+    .logo img{
+        width: 60px;
+        height: 50px;
+        margin-right: 10px;
+    }
